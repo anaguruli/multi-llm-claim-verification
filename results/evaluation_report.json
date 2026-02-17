@@ -1,0 +1,211 @@
+{
+  "system_accuracy": 0.8,
+  "baseline_accuracy": 0.8,
+  "improvement": 0.0,
+  "deliberation_change_rate": 0.2,
+  "deliberation_outcome_change_rate": 0.06666666666666667,
+  "per_category_accuracy": {
+    "scientific_health": {
+      "system_accuracy": 1.0,
+      "baseline_accuracy": 1.0,
+      "n": 4
+    },
+    "historical_geopolitical": {
+      "system_accuracy": 0.5,
+      "baseline_accuracy": 0.5,
+      "n": 4
+    },
+    "statistical_economic": {
+      "system_accuracy": 0.75,
+      "baseline_accuracy": 1.0,
+      "n": 4
+    },
+    "technology_ai": {
+      "system_accuracy": 1.0,
+      "baseline_accuracy": 0.6666666666666666,
+      "n": 3
+    }
+  },
+  "records": [
+    {
+      "claim_id": "c01",
+      "category": "scientific_health",
+      "ground_truth": "FALSE",
+      "system_verdict": "FALSE",
+      "baseline_verdict": "FALSE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": true,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c02",
+      "category": "scientific_health",
+      "ground_truth": "FALSE",
+      "system_verdict": "FALSE",
+      "baseline_verdict": "FALSE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c03",
+      "category": "scientific_health",
+      "ground_truth": "FALSE",
+      "system_verdict": "FALSE",
+      "baseline_verdict": "FALSE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c04",
+      "category": "scientific_health",
+      "ground_truth": "TRUE",
+      "system_verdict": "TRUE",
+      "baseline_verdict": "TRUE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c05",
+      "category": "historical_geopolitical",
+      "ground_truth": "FALSE",
+      "system_verdict": "FALSE",
+      "baseline_verdict": "FALSE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c06",
+      "category": "historical_geopolitical",
+      "ground_truth": "PARTIALLY_TRUE",
+      "system_verdict": "PARTIALLY_TRUE",
+      "baseline_verdict": "PARTIALLY_TRUE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c07",
+      "category": "historical_geopolitical",
+      "ground_truth": "PARTIALLY_TRUE",
+      "system_verdict": "FALSE",
+      "baseline_verdict": "FALSE",
+      "system_correct": false,
+      "baseline_correct": false,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": "Over-rejection: system treated partial truth as false."
+    },
+    {
+      "claim_id": "c08",
+      "category": "historical_geopolitical",
+      "ground_truth": "PARTIALLY_TRUE",
+      "system_verdict": "TRUE",
+      "baseline_verdict": "MISLEADING",
+      "system_correct": false,
+      "baseline_correct": false,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": "False acceptance: system treated non-true claim as true."
+    },
+    {
+      "claim_id": "c09",
+      "category": "statistical_economic",
+      "ground_truth": "FALSE",
+      "system_verdict": "FALSE",
+      "baseline_verdict": "FALSE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c10",
+      "category": "statistical_economic",
+      "ground_truth": "TRUE",
+      "system_verdict": "TRUE",
+      "baseline_verdict": "TRUE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c11",
+      "category": "statistical_economic",
+      "ground_truth": "FALSE",
+      "system_verdict": "PARTIALLY_TRUE",
+      "baseline_verdict": "FALSE",
+      "system_correct": false,
+      "baseline_correct": true,
+      "deliberation_changed": true,
+      "deliberation_changed_outcome": true,
+      "error_analysis": "Under-rejection: system too lenient on false claim."
+    },
+    {
+      "claim_id": "c12",
+      "category": "statistical_economic",
+      "ground_truth": "MISLEADING",
+      "system_verdict": "MISLEADING",
+      "baseline_verdict": "MISLEADING",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c13",
+      "category": "technology_ai",
+      "ground_truth": "TRUE",
+      "system_verdict": "TRUE",
+      "baseline_verdict": "TRUE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c14",
+      "category": "technology_ai",
+      "ground_truth": "FALSE",
+      "system_verdict": "FALSE",
+      "baseline_verdict": "FALSE",
+      "system_correct": true,
+      "baseline_correct": true,
+      "deliberation_changed": true,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    },
+    {
+      "claim_id": "c15",
+      "category": "technology_ai",
+      "ground_truth": "PARTIALLY_TRUE",
+      "system_verdict": "PARTIALLY_TRUE",
+      "baseline_verdict": "MISLEADING",
+      "system_correct": true,
+      "baseline_correct": false,
+      "deliberation_changed": false,
+      "deliberation_changed_outcome": false,
+      "error_analysis": ""
+    }
+  ]
+}
