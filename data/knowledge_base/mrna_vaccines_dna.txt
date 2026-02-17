@@ -1,0 +1,15 @@
+mRNA Vaccines and Human DNA: The Science
+
+mRNA vaccines, such as those developed by Pfizer-BioNTech and Moderna for COVID-19, work by delivering messenger RNA instructions to cells to produce the SARS-CoV-2 spike protein, triggering an immune response.
+
+A central concern raised by vaccine skeptics is whether mRNA can alter human DNA. This concern is scientifically unfounded for the following reasons:
+
+1. Cellular compartmentalisation: mRNA is processed in the cytoplasm of cells, never entering the nucleus where DNA is housed. The mRNA in vaccines is coated in lipid nanoparticles that release it into the cytoplasm upon cell entry.
+
+2. Lack of reverse transcriptase: Converting mRNA back into DNA (reverse transcription) requires the enzyme reverse transcriptase, which human cells do not normally produce. Only retroviruses like HIV carry their own reverse transcriptase.
+
+3. mRNA degradation: Vaccine mRNA is inherently unstable and breaks down within days after injection. It does not persist in the body.
+
+4. No mechanism for nuclear integration: Even if hypothetical reverse transcription occurred, DNA integration into chromosomes requires additional enzymes (integrases) not present in normal human cells.
+
+These facts are confirmed by the CDC, WHO, the European Medicines Agency, and independent molecular biologists worldwide.

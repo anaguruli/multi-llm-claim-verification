@@ -1,0 +1,14 @@
+GPT-4 Performance on the Bar Exam
+
+The Uniform Bar Exam (UBE) is a standardised bar examination used in many US states. Passing typically requires a score of 266–270 out of 400, depending on jurisdiction.
+
+GPT-4 Bar Exam Performance:
+OpenAI's technical report for GPT-4 (released March 2023) reported that GPT-4 scored approximately 298–310 on the UBE, placing it around the 90th percentile of human test-takers—meaning it scored better than approximately 90% of people who take the exam.
+
+Several independent researchers and law school clinics subsequently tested GPT-4 on bar exam practice questions and reached similar conclusions, validating OpenAI's reported scores.
+
+This is in contrast to its predecessor GPT-3.5, which scored around the 10th percentile on the same exam.
+
+The 90th percentile corresponds to the top 10% of human test-takers, which aligns with the claim.
+
+Some researchers have noted methodological considerations, such as whether GPT-4 may have seen bar exam questions in training data. However, as of available evaluations, independent verification largely supports the top 10% claim.

@@ -1,0 +1,23 @@
+The Original iPhone: Launch Features and Timeline
+
+Apple introduced the first iPhone at Macworld Conference & Expo on 9 January 2007. It went on sale to the public on 29 June 2007 in the United States.
+
+Original iPhone Features (2007):
+- 3.5-inch multi-touch display
+- 2-megapixel camera (no front-facing camera)
+- Mobile Safari browser
+- iPod music player
+- Visual Voicemail
+- Google Maps integration
+- Wi-Fi and Bluetooth
+- EDGE (2G) network connectivity — NOT 3G
+
+Features NOT present at original launch:
+- App Store: Apple launched the App Store on 10 July 2008, alongside iPhone OS 2.0. Third-party applications were not available at the original launch.
+- 3G connectivity: The original iPhone used EDGE (2.5G) for cellular data. The iPhone 3G, released on 11 July 2008, was the first iPhone with 3G connectivity.
+- Copy and paste
+- MMS messaging
+
+Steve Jobs presented the original iPhone as "an iPod, a phone, and an internet communicator" combined into one device, emphasising the revolutionary touch interface.
+
+The claim that the original iPhone included an App Store and 3G connectivity at launch is incorrect on both counts.

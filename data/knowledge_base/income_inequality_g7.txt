@@ -1,0 +1,16 @@
+Income Inequality in G7 Nations: Gini Coefficient Analysis
+
+The Gini coefficient is the standard measure of income inequality, ranging from 0 (perfect equality) to 1 (total inequality). Higher values indicate greater inequality.
+
+Gini Coefficients for G7 nations (OECD data, most recent available, approximately 2021–2022):
+- United States: 0.394–0.414 (among developed nations, consistently highest)
+- United Kingdom: 0.357
+- Italy: 0.347
+- Canada: 0.307
+- Japan: 0.334
+- France: 0.292
+- Germany: 0.296
+
+The United States consistently ranks as the most unequal G7 country by the Gini coefficient. This is attributed to lower union coverage, more regressive tax structures, higher CEO-to-worker pay ratios, and weaker social safety nets compared to European G7 members.
+
+The World Bank and OECD both confirm the US has the highest income inequality among G7 nations on Gini measures, though some measures of wealth inequality (as opposed to income inequality) show even starker gaps.
