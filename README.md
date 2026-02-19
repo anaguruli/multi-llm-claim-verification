@@ -121,7 +121,7 @@ with confidence and reasoning.
 
 ## Project Structure
 
-    fact-checking-pipeline/
+    multi-llm-claim-verification/
     ├── .env
     ├── config.py
     ├── main.py
@@ -156,8 +156,8 @@ with confidence and reasoning.
 ### 1. Clone and install
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/fact-checking-pipeline.git
-cd fact-checking-pipeline
+git clone https://github.com/anaguruli/multi-llm-claim-verification.git
+cd multi-llm-claim-verification
 
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
