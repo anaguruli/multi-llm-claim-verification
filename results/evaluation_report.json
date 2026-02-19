@@ -1,7 +1,7 @@
 {
-  "system_accuracy": 0.8,
+  "system_accuracy": 0.8666666666666667,
   "baseline_accuracy": 0.8,
-  "improvement": 0.0,
+  "improvement": 0.06666666666666665,
   "deliberation_change_rate": 0.2,
   "deliberation_outcome_change_rate": 0.06666666666666667,
   "per_category_accuracy": {
@@ -16,7 +16,7 @@
       "n": 4
     },
     "statistical_economic": {
-      "system_accuracy": 0.75,
+      "system_accuracy": 1.0,
       "baseline_accuracy": 1.0,
       "n": 4
     },
@@ -151,13 +151,13 @@
       "claim_id": "c11",
       "category": "statistical_economic",
       "ground_truth": "FALSE",
-      "system_verdict": "PARTIALLY_TRUE",
+      "system_verdict": "FALSE",
       "baseline_verdict": "FALSE",
-      "system_correct": false,
+      "system_correct": true,
       "baseline_correct": true,
       "deliberation_changed": true,
       "deliberation_changed_outcome": true,
-      "error_analysis": "Under-rejection: system too lenient on false claim."
+      "error_analysis": ""
     },
     {
       "claim_id": "c12",
@@ -200,7 +200,7 @@
       "category": "technology_ai",
       "ground_truth": "PARTIALLY_TRUE",
       "system_verdict": "PARTIALLY_TRUE",
-      "baseline_verdict": "MISLEADING",
+      "baseline_verdict": "FALSE",
       "system_correct": true,
       "baseline_correct": false,
       "deliberation_changed": false,
